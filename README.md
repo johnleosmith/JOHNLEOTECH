@@ -27,4 +27,4 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝕻𝕽𝕺𝕲𝕽𝕬𝕸𝕸𝕰𝕯+𝕭𝖄+𝕬+𝕲𝕰𝕹𝖅+🏴󠁵󠁳󠁴󠁸󠁿)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐌𝐄𝐃+𝐁𝐘+𝐉𝐎𝐇𝐍𝐋𝐄𝐎+🇳🇬)](https://git.io/typing-svg)
